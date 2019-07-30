@@ -1,0 +1,2 @@
+# Multimodal-RGBDT-Video-Capturing-and-Activity-Recognition
+A Matlab project for multimodal (color, depth and thermal) video data recording, annotation, and analysis using traditional machine learning methods. The code includes multi-camera calibration and synchronization, human body segmentation, feature point tracking in image sequences, time series analysis, application of multiple machine learning methods.
